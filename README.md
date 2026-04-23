@@ -71,11 +71,15 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 
   ### 🎮 Maps 
 <p align="center">
-  <img src="portfolio/model2_1.jpg" width="30%" />
-  <img src="portfolio/model2_2.jpg" width="30%" />
-  <img src="portfolio/model2_3.jpg" width="30%" />
+  <img src="portfolio/map1.png" width="30%" />
+  <img src="portfolio/map2.png" width="30%" />
+  <img src="portfolio/map3.png" width="30%" />
+  
 </p>
-
+ <img src="portfolio/map4.png" width="75%" />
+<p align="center">
+  
+</p>  
 **Details:**
 - Type:
 - Style:
