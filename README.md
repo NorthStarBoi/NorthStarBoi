@@ -41,9 +41,9 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 
 ### 🎮 Modeling 
 <p align="center">
-  <img src="portfolio/model1_1.jpg" width="30%" />
-  <img src="portfolio/model1_2.jpg" width="30%" />
-  <img src="portfolio/model1_3.jpg" width="30%" />
+  <img src="portfolio/Model1.png" width="30%" />
+  <img src="portfolio/Model2.png" width="30%" />
+  <img src="portfolio/Model3.png" width="30%" />
 </p>
 
 **Details:**
@@ -82,6 +82,12 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
  
 <p align="center">
   <img src="portfolio/map4.png" width="75%" />
+</p>  
+<p align="center">
+  <img src="portfolio/map5.png" width="75%" />
+</p>  
+<p align="center">
+  <img src="portfolio/map6.png" width="75%" />
 </p>  
 **Details:**
 - Type:
