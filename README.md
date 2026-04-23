@@ -57,6 +57,7 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 ### 🎮 Animations
 <p align="center">
   <img src="portfolio/makora.gif" width="75%" />
+  
   I do not own the model above, the animation was for the pure entertainment purposes
 </p>
 <p align="center">
