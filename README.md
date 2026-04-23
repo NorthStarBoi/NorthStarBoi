@@ -76,9 +76,9 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
   <img src="portfolio/map3.png" width="30%" />
   
 </p>
- <img src="portfolio/map4.png" width="75%" />
+ 
 <p align="center">
-  
+  <img src="portfolio/map4.png" width="75%" />
 </p>  
 **Details:**
 - Type:
