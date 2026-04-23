@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Adam
 
 <!-- ===================== -->
 <!-- WALLPAPER / BANNER -->
@@ -11,11 +11,11 @@
 
 ## 🧠 About Me
 
-I am a  3D Artist / Game Developer  specializing in game-ready models, ].
+I am a  3D Artist / Game Developer  specializing in game-ready models / animations / post process effects .
 
 💡 Interests:
 - Game Dev
-- 3D modeling/animation and stylized eniornment
+- 3D modeling/animation and stylized enviornment
 - Shaders and post process effects
 
 🎯 Goal:
@@ -47,9 +47,9 @@ I am a  3D Artist / Game Developer  specializing in game-ready models, ].
 </p>
 
 **Details:**
-- Type: [e.g. Low Poly / High Poly]
-- Engine: [Unity / Unreal]
-- Tools: [Blender, Substance Painter]
+- Type: 
+- Engine: 
+- Tools: 
 - Description: What it is and how it was used
 
 ---
@@ -59,6 +59,9 @@ I am a  3D Artist / Game Developer  specializing in game-ready models, ].
   <img src="portfolio/model2_1.jpg" width="30%" />
   <img src="portfolio/model2_2.jpg" width="30%" />
   <img src="portfolio/model2_3.jpg" width="30%" />
+</p>
+<p align="center">
+   <img src="portfolio/model4_4.jpg" width="90%" />
 </p>
 
 **Details:**
@@ -94,9 +97,9 @@ I am a  3D Artist / Game Developer  specializing in game-ready models, ].
 
 ## 📫 Contact
 
-- 📧 Email: [your email]
-- 💼 LinkedIn: [link]
-- 🌐 Portfolio: [website if you have one]
+- 📧 Email: [mienkinaadam@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/adam-mienkina-32b5a4375/]
+- 🌐 Portfolio: [https://github.com/NorthStarBoi/Portflolio.git]
 
 ---
 
