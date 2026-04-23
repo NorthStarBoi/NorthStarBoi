@@ -11,15 +11,16 @@
 
 ## 🧠 About Me
 
-I am a  3D Artist / Game Developer  specializing in game-ready models / animations / post process effects .
+I am a  3D Artist / Game Developer  specializing in game-ready models / animations / post process effects.
 
 💡 Interests:
 - Game Dev
 - 3D modeling/animation and stylized enviornment
 - Shaders and post process effects
+- Material workflow alongside UV placement
 
 🎯 Goal:
-> A short, clear statement about your direction and ambitions.
+> I want to make the best impression of my work I crated over the span of studying at Unviersity of Silesia.
 
 ---
 
@@ -39,7 +40,7 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 
 ## 🖼️ Portfolio – Game Assets / Models
 
-### 🎮 Modeling 
+### 🎮 Characters
 <p align="center">
   <img src="portfolio/Model1.png" width="30%" />
   <img src="portfolio/Model2.png" width="30%" />
