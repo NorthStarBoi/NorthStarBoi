@@ -1,16 +1,105 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**NorthStarBoi/NorthStarBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===================== -->
+<!-- WALLPAPER / BANNER -->
+<!-- ===================== -->
+<p align="center">
+  <img src="images/banner.jpg" alt="Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a  3D Artist / Game Developer  specializing in game-ready models, ].
+
+💡 Interests:
+- Game Dev
+- 3D modeling/animation and stylized eniornment
+- Shaders and post process effects
+
+🎯 Goal:
+> A short, clear statement about your direction and ambitions.
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+
+### 🧰 Software & Tools
+![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge)
+![Premiere Pro](https://img.shields.io/badge/Premiere-Pro-blue?style=for-the-badge)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-darkgreen?style=for-the-badge)
+
+---
+
+## 🖼️ Portfolio – Game Assets / Models
+
+### 🎮 Modeling 
+<p align="center">
+  <img src="portfolio/model1_1.jpg" width="30%" />
+  <img src="portfolio/model1_2.jpg" width="30%" />
+  <img src="portfolio/model1_3.jpg" width="30%" />
+</p>
+
+**Details:**
+- Type: [e.g. Low Poly / High Poly]
+- Engine: [Unity / Unreal]
+- Tools: [Blender, Substance Painter]
+- Description: What it is and how it was used
+
+---
+
+### 🎮 Animations
+<p align="center">
+  <img src="portfolio/model2_1.jpg" width="30%" />
+  <img src="portfolio/model2_2.jpg" width="30%" />
+  <img src="portfolio/model2_3.jpg" width="30%" />
+</p>
+
+**Details:**
+- Type:
+- Style:
+- Usage:
+
+  ### 🎮 Maps 
+<p align="center">
+  <img src="portfolio/model2_1.jpg" width="30%" />
+  <img src="portfolio/model2_2.jpg" width="30%" />
+  <img src="portfolio/model2_3.jpg" width="30%" />
+</p>
+
+**Details:**
+- Type:
+- Style:
+- Usage:
+
+  ### 🎮 VFX's/Post Process 
+<p align="center">
+  <img src="portfolio/model2_1.jpg" width="30%" />
+  <img src="portfolio/model2_2.jpg" width="30%" />
+  <img src="portfolio/model2_3.jpg" width="30%" />
+</p>
+
+**Details:**
+- Type:
+- Style:
+- Usage:
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [your email]
+- 💼 LinkedIn: [link]
+- 🌐 Portfolio: [website if you have one]
+
+---
+
+## 🚀 Currently Working On
+
+- Project - Jawia - 
