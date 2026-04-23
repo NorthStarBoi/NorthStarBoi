@@ -33,7 +33,7 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 ### 🧰 Software & Tools
 ![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge)
-![Premiere Pro](https://img.shields.io/badge/Premiere-Pro-blue?style=for-the-badge)
+![Premiere-Pro](https://img.shields.io/badge/Premiere-Pro-blue?style=for-the-badge)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-darkgreen?style=for-the-badge)
 
 ---
