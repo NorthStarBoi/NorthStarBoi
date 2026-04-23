@@ -96,8 +96,8 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 
   ### 🎮 VFX's/Post Process 
 <p align="center">
-  <img src="KuhawaraVFX.png" width="30%" />
-  <img src="KuwaharaOff.png" width="30%" />
+  <img src="portfolio/VFX1.png" width="30%" />
+  <img src="portfolio/VFX2.png" width="30%" />
 </p>
 
 **Details:**
