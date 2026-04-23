@@ -47,10 +47,11 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 </p>
 
 **Details:**
-- Type: 
-- Engine: 
-- Tools: 
-- Description: What it is and how it was used
+- Type: FBX
+- Engine: Unreal Engine
+- Tools: Blender / Photoshop
+- Description: Two first models belong to my PSX stylized game(Withered Rose) and the third (Clown) was made for the game jam project
+- P.S. there are few more characters models in the repository mentioned at the end of the read.md file
 
 ---
 
@@ -68,9 +69,11 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 </p>
 
 **Details:**
-- Type:
-- Style:
-- Usage:
+- Type: FBX
+- Engine: Unreal Engine
+- Tools: Blender 
+- Description: Golem and chest are original models designed by me and animated aswell.
+- P.S. there are few more characters animated in the repository mentioned at the end of the read.md file
 
   ### 🎮 Maps 
 <p align="center">
@@ -90,9 +93,10 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
   <img src="portfolio/map6.png" width="75%" />
 </p>  
 **Details:**
-- Type:
-- Style:
-- Usage:
+- Type: FBX
+- Engine: Unreal Engine
+- Tools: Blender / Photoshop
+- Description: Few pixalted maps are procedurally generated places so those are only few instances of the whole level layouts in the "Withered Rose". Rest of those places were created in the heat of finishing game jam projects or study subjects at University. 
 
   ### 🎮 VFX's/Post Process 
 <p align="center">
@@ -101,9 +105,10 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 </p>
 
 **Details:**
-- Type:
-- Style:
-- Usage:
+- Type: BP/C++ Custom nodes
+- Usage: Enviornment, graphic pipline output
+- Description: VFX's and effects here are used in the future upcoming project called "Jawia".
+- P.S. there are few more Post process / enviornment effects recorded in the repository mentioned at the end of the read.md file
 
 ---
 
