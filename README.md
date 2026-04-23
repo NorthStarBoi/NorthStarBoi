@@ -4,7 +4,7 @@
 <!-- WALLPAPER / BANNER -->
 <!-- ===================== -->
 <p align="center">
-  <img src="images/banner.jpg" alt="Banner" width="100%" />
+  <img src="images/banner.png" alt="Banner" width="100%" />
 </p>
 
 ---
