@@ -20,7 +20,7 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 - Material workflow alongside UV placement
 
 🎯 Goal:
-> I want to make the best impression of my work I crated over the span of studying at Unviersity of Silesia.
+> I want to make the best impression of my work I created over the span of studying at Unviersity of Silesia.
 
 ---
 
@@ -76,6 +76,8 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 - Description: Golem and chest are original models designed by me and animated aswell.
 - P.S. there are few more characters animated in the repository mentioned at the end of the read.md file
 
+---
+
   ### 🎮 Maps 
 <p align="center">
   <img src="portfolio/map1.png" width="30%" />
@@ -98,6 +100,8 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 - Engine: Unreal Engine
 - Tools: Blender / Photoshop
 - Description: Few pixalted maps are procedurally generated places so those are only few instances of the whole level layouts in the "Withered Rose". Rest of those places were created in the heat of finishing game jam projects or study subjects at University. 
+
+---
 
   ### 🎮 VFX's/Post Process 
 <p align="center">
@@ -123,4 +127,4 @@ I am a  3D Artist / Game Developer  specializing in game-ready models / animatio
 
 ## 🚀 Currently Working On
 
-- Project - Jawia - 
+- Project - Jawia - Open World game inspiried by RPG maker title called Fear and Hunger, side job to polish my skills in game dev industry.
