@@ -148,3 +148,4 @@ I am a Programmer / Game Developer / 3D Artist specializing in game-ready models
 ## 🚀 Currently Working On
 
 - Project - Jawia - Open World game inspiried by RPG maker title called Fear and Hunger, side job to polish my skills in game dev industry.
+- Project - Cybersecurity - Working on a active defense that can be impplemented with python on windows, using bait tools/ searching mechanism.
