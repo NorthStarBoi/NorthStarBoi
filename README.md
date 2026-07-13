@@ -17,8 +17,6 @@ I am a Programmer / Game Developer / 3D Artist specializing in game-ready models
 - Cybersecurity and it's workflow in today's world of technology
 - Game Dev
 - 3D modeling/animation and stylized enviornment
-- Shaders and post process effects
-- Material workflow alongside UV placement
 
 🛡️ Certificate: 
 - Python Specialization in Cybersecurity
