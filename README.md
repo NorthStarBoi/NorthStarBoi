@@ -11,13 +11,31 @@
 
 ## 🧠 About Me
 
-I am a  3D Artist / Game Developer  specializing in game-ready models / animations / post process effects.
+I am a Programmer / Game Developer / 3D Artist specializing in game-ready models / animations / quality assurance.
 
 💡 Interests:
+- Cybersecurity and it's workflow in today's world of technology
 - Game Dev
 - 3D modeling/animation and stylized enviornment
 - Shaders and post process effects
 - Material workflow alongside UV placement
+
+🛡️ Certificate: Python for Cybersecurity
+
+🖥️ Game Jams I worked on:
+-"Łosoś 2024" (48h), Game Title: "The Library" 
+    (3D Programmer / Enviornment Designer) 
+-"Global Game Jam #1 2025" (48h), Game Title: 
+    "Big Friendly Bubbler 2025" (3D Programmer / Graphic Designer) 
+-"Cieszyn 2025" (72h). Game title: "Emil" (Programmer)
+-"Global Game Jam #2 2025" (48h), Game Title: 
+    “Golemiada"(Animator / 3D Graphic Designer)
+-"Game Jam 418 Time 2025" (48h), Game Title: "Railed" 
+ (3D Programmer/Environment Designer)
+-"Guard Game Jam 2025" (48h), Game Title: "OFFGRID"
+3D Graphic Designer)
+-"Game Jam Sosnowiec 2026" (48h), Game Title: "" 
+ (3D Programmer / Characater Designer/ Animation creator)
 
 🎯 Goal:
 > I want to make the best impression of my work I created over the span of studying at Unviersity of Silesia.
