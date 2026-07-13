@@ -23,18 +23,18 @@ I am a Programmer / Game Developer / 3D Artist specializing in game-ready models
 🛡️ Certificate: Python for Cybersecurity
 
 🖥️ Game Jams I worked on:
--"Łosoś 2024" (48h), Game Title: "The Library" 
+- "Łosoś 2024" (48h), Game Title: "The Library" 
     (3D Programmer / Enviornment Designer) 
--"Global Game Jam #1 2025" (48h), Game Title: 
+- "Global Game Jam #1 2025" (48h), Game Title: 
     "Big Friendly Bubbler 2025" (3D Programmer / Graphic Designer) 
--"Cieszyn 2025" (72h). Game title: "Emil" (Programmer)
--"Global Game Jam #2 2025" (48h), Game Title: 
+- "Cieszyn 2025" (72h). Game title: "Emil" (Programmer)
+- "Global Game Jam #2 2025" (48h), Game Title: 
     “Golemiada"(Animator / 3D Graphic Designer)
--"Game Jam 418 Time 2025" (48h), Game Title: "Railed" 
+- "Game Jam 418 Time 2025" (48h), Game Title: "Railed" 
  (3D Programmer/Environment Designer)
--"Guard Game Jam 2025" (48h), Game Title: "OFFGRID"
+- "Guard Game Jam 2025" (48h), Game Title: "OFFGRID"
 3D Graphic Designer)
--"Game Jam Sosnowiec 2026" (48h), Game Title: "" 
+- "Game Jam Sosnowiec 2026" (48h), Game Title: "Ratscape" 
  (3D Programmer / Characater Designer/ Animation creator)
 
 🎯 Goal:
