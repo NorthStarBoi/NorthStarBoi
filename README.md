@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I am a Programmer / Game Developer / 3D Artist specializing in game-ready models / animations / quality assurance.
+I am a Programmer / Game Developer / 3D Artist specializing in game-ready models / problem solving / quality assurance.
 
 💡 Interests:
 - Cybersecurity and it's workflow in today's world of technology
