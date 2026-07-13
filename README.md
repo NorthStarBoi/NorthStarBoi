@@ -20,7 +20,8 @@ I am a Programmer / Game Developer / 3D Artist specializing in game-ready models
 - Shaders and post process effects
 - Material workflow alongside UV placement
 
-🛡️ Certificate: Python Specialization in Cybersecurity
+🛡️ Certificate: 
+- Python Specialization in Cybersecurity
 
 🖥️ Game Jams I worked on:
 - "Łosoś 2024" (48h), Game Title: "The Library" 
